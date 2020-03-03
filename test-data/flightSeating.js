@@ -60,7 +60,8 @@ const flights = {
         { id: '10D', isAvailable: false },
         { id: '10E', isAvailable: false },
         { id: '10F', isAvailable: true },
-    ]
+    ],
+    'SA233': []
 }
 
-module.exports = { seats };
+module.exports = { flights };
